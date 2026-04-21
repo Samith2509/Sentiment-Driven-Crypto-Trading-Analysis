@@ -1,7 +1,7 @@
 # Primetrade.ai - Trader Performance vs Market Sentiment Analysis 📊
 
 ## Project Overview
-This directory contains the analysis pipeline for the Data Science Intern Round-0 Assignment at Primetrade.ai. The overarching objective of this project is to parse, synthesize, and determine explicit quantitative correlations between widespread market sentiment (Fear/Greed) and independent trader behaviors on the Hyperliquid platform. 
+The overarching objective of this project is to parse, synthesize, and determine explicit quantitative correlations between widespread market sentiment (Fear/Greed) and independent trader behaviors on the Hyperliquid platform. 
 
 The primary analysis engine relies on a robust data engineering `Python` pipeline (`load_data.py`) which automatically accesses datasets via the cloud, cleans structural deviations, builds key metric columns, segments behavior cohorts, and natively plots insights.
 
